@@ -1,6 +1,9 @@
 # Q20. Library Management
 # Create a class LibraryBook with a constructor that accepts book_name, author, and availability. Create methods to:
 # Display book details.
+# Issue a book if available.
+# Return a book.
+# Display the current availability status
 class LibraryBook:
     def __init__(self,book_name,author,is_available):
         self.book_name = book_name
