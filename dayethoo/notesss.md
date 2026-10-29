@@ -26,6 +26,7 @@ result = sorted(numbers)
 print(result)
 ```
 
+
 ### 🧠 Easy rule
 
 If you see:
