@@ -76,6 +76,7 @@ while True:
     elif choice == 3:
         balance_obj.check_balance()
 
+
     elif choice == 4:
         details_obj.display_details()
 
