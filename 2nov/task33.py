@@ -1,5 +1,3 @@
-
-# PARENT CLASS
 class Bank:
 
     def __init__(self, name, account_number, balance):
