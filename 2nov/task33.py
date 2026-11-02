@@ -35,7 +35,6 @@ class Deposit(Bank):
             print("Invalid deposit amount!")
 
 
-# CHILD CLASS 2 - WITHDRAW
 class Withdraw(Bank):
 
     def withdraw(self, amount):
