@@ -22,7 +22,7 @@ class Bank:
         self.__balance += amount
 
 
-# CHILD CLASS 1 - DEPOSIT
+
 class Deposit(Bank):
 
     def deposit(self, amount):
@@ -61,8 +61,6 @@ class CheckBalance(Bank):
 class DisplayAccountDetails(Bank):
 
     def display_details(self):
-
-        print("\n------ ACCOUNT DETAILS ------")
 
         print("Bank Name:", self._bank_name)
         print("Account Holder:", self.name)
