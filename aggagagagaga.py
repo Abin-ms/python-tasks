@@ -17,8 +17,6 @@ def course(name, duration):
     print(name, duration)
 
 course(name="Python", duration="3 months")
-
-
 # 44
 def person(name, city, age):
     print(name, city, age)
