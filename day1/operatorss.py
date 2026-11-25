@@ -7,4 +7,6 @@ print((5!=6) and (10!=10))
 print(5 and 10)
 print(0 or 1)
 # print((2<4 and ) and (10>1))    we cannot check like this , it will throw an error(syntax error).
+
+
 print(not -2)
