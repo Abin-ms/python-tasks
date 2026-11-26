@@ -3,6 +3,7 @@ def student(name, city):
     print(name, city)
 
 student(name="Abin", city="Kochi")
+student(name="saaaa",city="vxvx")
 
 
 # 42
